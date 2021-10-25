@@ -1,0 +1,8 @@
+{
+  "name": "AR View",
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
+  "type": "angular"
+}
